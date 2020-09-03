@@ -1,0 +1,10 @@
+C:\Users\Harlequin\Desktop\laundry\laundry\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Harlequin\Desktop\laundry\laundry\obj\x86\Debug\WindowsApplication1.Tambah.resources
+C:\Users\Harlequin\Desktop\laundry\laundry\obj\x86\Debug\laundry.vbproj.GenerateResource.Cache
+C:\Users\Harlequin\Desktop\laundry\laundry\bin\Debug\laundry.exe
+C:\Users\Harlequin\Desktop\laundry\laundry\bin\Debug\laundry.pdb
+C:\Users\Harlequin\Desktop\laundry\laundry\bin\Debug\laundry.xml
+C:\Users\Harlequin\Desktop\laundry\laundry\obj\x86\Debug\laundry.exe
+C:\Users\Harlequin\Desktop\laundry\laundry\obj\x86\Debug\laundry.xml
+C:\Users\Harlequin\Desktop\laundry\laundry\obj\x86\Debug\laundry.pdb
+C:\Users\Harlequin\Desktop\laundry\laundry\obj\x86\Debug\WindowsApplication1.Home.resources
